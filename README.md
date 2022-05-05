@@ -1,1 +1,1 @@
-Fitness_Detector using STM32 embedded board and C++.
+A fitness detector using C++ to record body movements and identify four different exercises on a STM32 embedded board.
